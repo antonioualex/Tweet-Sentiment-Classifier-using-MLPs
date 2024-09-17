@@ -1,6 +1,6 @@
 # Tweet Sentiment Classifier using MLPs
 
-This project focuses on developing a sentiment classification model using Multi-Layer Perceptrons (MLPs) with variations in text representation techniques and hyperparameter tuning, leveraging a balanced subset of the Kaggle [Twitter Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis) dataset.
+This project focuses on developing a sentiment classification model using Multi-Layer Perceptrons (MLPs) with variations in text representation techniques and hyperparameter tuning, leveraging a balanced subset of the Kaggle [Twitter Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis) dataset. Additionally, a single instance of logistic regression was applied for comparison with the MLP models.
 
 ## Project Overview
 The key objectives were:
